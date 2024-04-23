@@ -13,5 +13,5 @@
 
 ### Visite a página de login:
 
-- https://trazvalor.net.br/testes/login
+- https://trazvalor.net.br/login
 
