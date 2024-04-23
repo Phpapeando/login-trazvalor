@@ -8,7 +8,7 @@
 
 |    Imagem da página de login anterior          |     Imagens da página de login atual        |
 | ---------------------------------------------- | ------------------------------------------- |
-| ![antes](https://i.imgur.com/nBpiXFv.png)      | ![depois](https://i.imgur.com/8oCawy8.png)  |
+| ![antes](https://i.imgur.com/w8NDSmE.png)      | ![depois](https://i.imgur.com/1ZXDejO.png)  |
 
 
 ### Visite a página de login:
